@@ -1,0 +1,11 @@
+p[1,2,"ahmed"]
+q=["mohamed","hager"]
+p.append(q);
+len(p)=3 
+#len count the external elements only
+a=[5,6]
+b=p+a
+# b contains all p and a elements
+
+p[0:2]
+#1,2
